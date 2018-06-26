@@ -6,7 +6,7 @@ The API is minimal, and you can control pretty much everything.
 
 Examples
 ============
-[https://github.com/alexandernyquist/Harvest/wiki/Crawling-a-site-for-all-external-links](Crawling a site for all external links)
+[Crawling a site for all external links](https://github.com/alexandernyquist/Harvest/wiki/Crawling-a-site-for-all-external-links)
 
 Want to help?
 ============
